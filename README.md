@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">I build production-ready applications with a strong focus on backend architecture, API design, and performance optimization.<br><br>Currently working with:<br><br>- Next.js (Frontend)<br>- NestJS / Node.js (Backend)<br>- MongoDB & PostgreSQL<br>- Redis (caching + real-time systems)<br>- Docker & NGINX (deployment)<br><br>---<br><br>🔥 What I’m Working On<br><br>- Scalable backend systems (auth, payments, dashboards)<br>- Redis-powered dynamic content caching<br>- Real-world system design (race conditions, async flows)<br><br>---<br><br>🛠 Tech Stack<br><br>Backend<br><br>Node.js • NestJS • Express<br><br>Frontend<br><br>Next.js • React<br><br>Database<br><br>MongoDB • PostgreSQL<br><br>DevOps<br><br>Docker • NGINX • Linux • GitHub Actions<br><br>Tools<br><br>Prisma • REST APIs • WebSockets<br><br>---<br><br>📌 Featured Projects<br><br>🏦 Banking Backend System<br><br>Secure backend with:<br><br>- Authentication (JWT)<br>- Transaction flow (race-condition safe)<br>- Async payment processing<br><br>📊 AI Dashboard (Redis-powered)<br><br>- Dynamic insights & recommendations<br>- Smart caching layer<br>- Real-time updates<br><br>🌐 Fullstack SaaS App<br><br>- Next.js frontend + NestJS backend<br>- Dockerized deployment<br>- Scalable API design</h1>
+<p align="left">I build production-ready applications with a strong focus on backend architecture, API design, and performance optimization.<br><br>Currently working with:<br><br>- Next.js (Frontend)<br>- NestJS / Node.js (Backend)<br>- MongoDB & PostgreSQL<br>- Redis (caching + real-time systems)<br>- Docker & NGINX (deployment)<br><br>---<br><br>🔥 What I’m Working On<br><br>- Scalable backend systems (auth, payments, dashboards)<br>- Redis-powered dynamic content caching<br>- Real-world system design (race conditions, async flows)<br><br>---<br><br>🛠 Tech Stack<br><br>Backend<br><br>Node.js • NestJS • Express<br><br>Frontend<br><br>Next.js • React<br><br>Database<br><br>MongoDB • PostgreSQL<br><br>DevOps<br><br>Docker • NGINX • Linux • GitHub Actions<br><br>Tools<br><br>Prisma • REST APIs • WebSockets<br><br>---<br><br>📌 Featured Projects<br><br>🏦 Banking Backend System<br><br>Secure backend with:<br><br>- Authentication (JWT)<br>- Transaction flow (race-condition safe)<br>- Async payment processing<br><br>📊 AI Dashboard (Redis-powered)<br><br>- Dynamic insights & recommendations<br>- Smart caching layer<br>- Real-time updates<br><br>🌐 Fullstack SaaS App<br><br>- Next.js frontend + NestJS backend<br>- Dockerized deployment<br>- Scalable API design</p>
 
 ###
 
@@ -39,15 +39,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <a href="https://x.com/Frankly0021140" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   <a href="https://medium.com/@franklydemand" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
   </a>
   <a href="https://droidlogistics.slack.com/team/U0AU5PFE3MM" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
   </a>
 </div>
 
