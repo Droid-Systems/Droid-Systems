@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
 <p align="left">👋 Hi, I'm Francis Egbuna<br><br>🚀 Backend-focused Fullstack Developer<br>🌍 Building scalable web applications with real-world system design<br>⚙️ Focused on performance, caching, and clean architecture</p>
